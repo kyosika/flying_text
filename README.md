@@ -3,7 +3,7 @@
 Today, I decided to make a free open source flying text template!
 
 ### How to contribute
-Thank you for wanting to contribute! It really makes me happy. Please send an issue or open a pull request.
+Thank you for wanting to contribute! It really makes me happy. Feel free to send an issue or open a pull request.
 
 
 ### How to run
