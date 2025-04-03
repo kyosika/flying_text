@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <title>Flying text!!!</title>
+  </head>
+  <body>
+    <style>
+body{
+
+  overflow: hidden;
+}
+      .flyingtext{
+
+        position: absolute;
+      }
+#h3{
+  white-space: nowrap;
+position: absolute;
+  animation: moveText 5s linear infinite;
+}
+      @keyframes moveText{
+
+        from{left: -200px;}
+        to{left: 100vw;}
+      }
+    </style>
+<div class="flyingtext">
+  <h3  id="h3" style="font-size: 40px;">This text is flying!</h3>
+</div>
+  </body>
+</html>
